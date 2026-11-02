@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Wallet Wiser | Employer-Sponsored Financial Wellness Program",
-  description: "Wallet Wiser is an employer-sponsored financial wellness program. Employers sign up and get a company code, and employees enroll with that code to get short guides, live workshops, and monthly savings goal check-ins.",
+  title: "Wallet Wiser | Keep Track of Household Bills and Subscriptions",
+  description: "Wallet Wiser is a free tool that helps you keep track of household bills and subscriptions. List your recurring bills, see everything due in one monthly calendar, and get reminders before due dates and renewals.",
 };
 
 export default function RootLayout({
