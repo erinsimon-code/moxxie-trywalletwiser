@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Wallet Wiser | Keep Track of Household Bills and Subscriptions",
-  description: "Wallet Wiser is a free tool that helps you keep track of household bills and subscriptions. List your recurring bills, see everything due in one monthly calendar, and get reminders before due dates and renewals.",
+  title: "Try Wallet Wiser | Keep Track of Household Bills and Subscriptions",
+  description: "Try Wallet Wiser is a free tool that helps you keep track of household bills and subscriptions. List your recurring bills, see everything due in one monthly calendar, and get reminders before due dates and renewals.",
 };
 
 export default function RootLayout({
